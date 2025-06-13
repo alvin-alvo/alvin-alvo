@@ -1,6 +1,6 @@
 
 ![Alvo's Github Stats](https://github-readme-stats.vercel.app/api?username=alvin-alvo&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-alvo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-alvo&theme=transparent)
 <!--
 **alvin-alvo/alvin-alvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
