@@ -1,5 +1,5 @@
-## Hi there 👋
-[![Alvo's Github Stats](https://github-readme-stats.vercel.app/api?username=alvin-alvo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alvo's Github Stats](https://github-readme-stats.vercel.app/api?username=alvin-alvo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]
 
 <!--
 **alvin-alvo/alvin-alvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
